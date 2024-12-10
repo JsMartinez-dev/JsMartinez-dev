@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏻, I'm 
 <a href="https://www.linkedin.com/in/juan-sebastian-martinez-uribe-697a52280/" target="blank">
-Juan Martínez</a> <img src="https://25.media.tumblr.com/c12f9caf18f6975c2e87c9e486810738/tumblr_mpqgrlFsqk1rpm29co1_1280.gif" height="40"></h1>
+Juan Martínez</a></h1>
 <h3 align="center">A passionate and dedicated back-end developer &#127470;&#127475</h3>
 
 
