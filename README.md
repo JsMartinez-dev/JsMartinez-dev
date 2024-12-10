@@ -38,10 +38,12 @@ Juan Martínez</a></h1>
 
 <!-- STATS Y LENGUAJES MAS USADOS -->
 ## My Statistics
+
 <div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=JsMartinez-dev&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsMartinez-dev&layout=compact&theme=gotham&langs_count=8"/>
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=JsMartinez-dev&theme=default&count_private=true&show_icons=true&include_all_commits=true&bg_color=283246&title_color=ffffff&text_color=d1d5da&icon_color=79b8ff&border_color=444c56"/>
+  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsMartinez-dev&layout=compact&bg_color=283246&title_color=ffffff&text_color=d1d5da&icon_color=79b8ff&border_color=444c56"/>
 </div>
+
 
 <br/>
 
