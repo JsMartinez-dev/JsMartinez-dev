@@ -21,9 +21,6 @@ Juan Martínez</a></h1>
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
 
 ## Skills:
 
