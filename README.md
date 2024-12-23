@@ -15,9 +15,9 @@ Juan Martínez</a></h1>
   
 - 🤝 I am available to work as a freelancer.
   
-- ☕ I am currently a programming instructor specialized in the object-oriented paradigm (java)
+- ☕ I am currently a programming instructor specialized in the object-oriented paradigm (java).
   
-- 📫How to contact me **jsmartinezu@unimagdalena.edu.co**
+- 📫How to contact me **jsmartinezu@unimagdalena.edu.co** 
   
 <br/>
 <br/>
