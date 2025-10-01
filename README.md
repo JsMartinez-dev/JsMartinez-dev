@@ -52,7 +52,7 @@ Juan Martínez</a></h1>
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/juan-sebastian-martinez-uribe-697a52280/)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](www.linkedin.com/in/juan-sebastián-martínez-uribe-697a52280)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/ripp.pipo/)
 </p>
 
