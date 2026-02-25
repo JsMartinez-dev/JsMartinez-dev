@@ -24,36 +24,36 @@ Juan Martínez</a></h1>
 <br/>
 
 ## Skills:
-
 #### Languages:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)&nbsp;
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp; ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
+#### Tools & OS:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
-
-#### Database
-
+#### Database:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 <br/>
 
-
 <!-- STATS Y LENGUAJES MAS USADOS -->
 ## My Statistics
 
-<div style="display:grid;align-items:center;justify-content:center">
-  <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=JsMartinez-dev&theme=gotham&count_private=true&show_icons=true&include_all_commits=true"/>
-  <img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsMartinez-dev&layout=compact&theme=gotham&langs_count=8"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JsMartinez-dev&theme=gotham&count_private=true&show_icons=true&include_all_commits=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsMartinez-dev&layout=compact&theme=gotham&langs_count=8&hide_border=true"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JsMartinez-dev&theme=gotham&hide_border=true"/>
+</div>
 
 <br/>
 
 ## Connect with me:
-
-<p align = "center">
-
+<p align="center">
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/juan-sebastián-martínez-uribe-697a52280)
-
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/ripp.pipo/)
 </p>
-
