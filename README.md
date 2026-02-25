@@ -34,11 +34,6 @@ Juan Martínez</a></h1>
 ---
 ## 📊 My Statistics
 
-<p align="center">
-  <img height="180em" src="https://readme-stats-xi-three.vercel.app/api?username=JsMartinez-dev&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true&hide_border=true"/>
-  &nbsp;
-  <img height="180em" src="https://readme-stats-xi-three.vercel.app/api/top-langs/?username=JsMartinez-dev&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=JsMartinez-dev&theme=tokyonight&hide_border=true"/>
