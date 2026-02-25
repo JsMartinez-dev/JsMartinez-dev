@@ -14,7 +14,7 @@
 -  I am currently working on a desktop application (Java).
 -  I am available to work as a freelancer.
 -  I am currently a programming instructor specialized in the object-oriented paradigm (Java).
--  How to contact me: **jsmartinezu@unimagdalena.edu.co**
+-  How to contact me: **jsmartinezu@gmail.com**
 <br/><br/><br/>
 
 ##  Tech Stack
