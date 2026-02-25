@@ -10,44 +10,31 @@
 
 <br/>
 
-<!-- ABOUT ME -->
-<img align="right" width="360" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+<a target="_blank" align="center">
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+</a>
 
-### About Me
+-  I am currently studying at <a href="https://unimagdalena.edu.co/" target="blank">Universidad del Magdalena</a>
+-  I am currently working on a desktop application (Java).
+-  I am available to work as a freelancer.
+-  I am currently a programming instructor specialized in the object-oriented paradigm (Java).
+-  How to contact me: **jsmartinezu@unimagdalena.edu.co**
 
-```yaml
-name: Juan Sebastián Martínez
-location: Colombia 🇨🇴
-university: Universidad del Magdalena
-role: Back-End Developer
-current_project: Desktop application in Java
-available_for: Freelance work
-teaching: OOP & Java programming
-contact: jsmartinezu@unimagdalena.edu.co
-```
+<br/><br/><br/>
 
-<br clear="right"/>
-
----
-
-<!-- SKILLS -->
 ##  Tech Stack
 
-<div align="center">
+#### Languages:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)&nbsp;
 
-**Languages**
+#### Tools & OS:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,c&theme=dark)](https://skillicons.dev)
-
-**Tools & OS**
-
-[![My Skills](https://skillicons.dev/icons?i=git,linux,vscode&theme=dark)](https://skillicons.dev)
-
-**Database**
-
-[![My Skills](https://skillicons.dev/icons?i=postgresql&theme=dark)](https://skillicons.dev)
-
-</div>
+#### Database:
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 ---
 
