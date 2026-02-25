@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Juan%20Martínez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Back-End%20Developer%20%7C%20Java%20Instructor%20%7C%20Freelancer&descAlignY=55&descSize=16"/>
 </div>
 
-<!-- TYPING SVG -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Back-End+Developer+%F0%9F%9A%80;Java+%26+OOP+Instructor+%E2%98%95;Open+to+Freelance+Projects+%F0%9F%A4%9D;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
-</div>
 
 <br/>
 
@@ -14,12 +10,11 @@
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 </a>
 
--  I am currently studying at <a href="https://unimagdalena.edu.co/" target="blank">Universidad del Magdalena</a>
--  I am currently working on a desktop application (Java).
--  I am available to work as a freelancer.
--  I am currently a programming instructor specialized in the object-oriented paradigm (Java).
--  How to contact me: **jsmartinezu@unimagdalena.edu.co**
-
+- 👨🏻‍💻 I am currently studying at <a href="https://unimagdalena.edu.co/" target="blank">Universidad del Magdalena</a>
+- 🌱 I am currently working on a desktop application (Java).
+- 🤝 I am available to work as a freelancer.
+- ☕ I am currently a programming instructor specialized in the object-oriented paradigm (Java).
+- 📫 How to contact me: **jsmartinezu@unimagdalena.edu.co**
 <br/><br/><br/>
 
 ##  Tech Stack
