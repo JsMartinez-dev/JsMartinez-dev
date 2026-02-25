@@ -38,22 +38,26 @@ Juan Martínez</a></h1>
 
 <br/>
 
-<!-- STATS Y LENGUAJES MAS USADOS -->
 ## My Statistics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JsMartinez-dev&theme=gotham&count_private=true&show_icons=true&include_all_commits=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsMartinez-dev&layout=compact&theme=gotham&langs_count=8&hide_border=true"/>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JsMartinez-dev&theme=gotham&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsMartinez-dev&layout=compact&theme=gotham&langs_count=8&hide_border=true&cache_seconds=1800" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JsMartinez-dev&theme=gotham&hide_border=true"/>
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JsMartinez-dev&theme=gotham&hide_border=true" />
+</p>
 
 <br/>
 
 ## Connect with me:
+
 <p align="center">
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/juan-sebastián-martínez-uribe-697a52280)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/ripp.pipo/)
+  <a href="https://www.linkedin.com/in/juan-sebastián-martínez-uribe-697a52280">
+    <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/ripp.pipo/">
+    <img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />
+  </a>
 </p>
