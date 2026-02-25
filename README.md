@@ -54,21 +54,12 @@ contact: jsmartinezu@unimagdalena.edu.co
 <!-- STATS -->
 ##  GitHub Stats
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JsMartinez-dev&theme=tokyonight&count_private=true&show_icons=true&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JsMartinez-dev&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"/>
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=JsMartinez-dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </div>
 
 <br/>
-
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JsMartinez-dev&theme=tokyo-night&hide_border=true&area=true"/>
-</div>
 
 ---
 
