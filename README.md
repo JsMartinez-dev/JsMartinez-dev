@@ -51,7 +51,6 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Martínez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-sebasti%C3%A1n-mart%C3%ADnez-uribe-697a52280)
-[![Instagram](https://img.shields.io/badge/Instagram-@ripp.pipo-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ripp.pipo/)
 [![Email](https://img.shields.io/badge/Email-jsmartinezu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsmartinezu@unimagdalena.edu.co)
 
 </div>
