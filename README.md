@@ -22,12 +22,11 @@ Juan Martínez</a></h1>
 #### 💻 Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)&nbsp;
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 
 #### 🔧 Tools & OS:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 #### 🗄️ Database:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
@@ -37,16 +36,17 @@ Juan Martínez</a></h1>
 ## 📊 My Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JsMartinez-dev&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsMartinez-dev&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://readme-stats-xi-three.vercel.app/api?username=JsMartinez-dev&theme=tokyonight&count_private=true&show_icons=true&include_all_commits=true&hide_border=true"/>
+  &nbsp;
+  <img height="180em" src="https://readme-stats-xi-three.vercel.app/api/top-langs/?username=JsMartinez-dev&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JsMartinez-dev&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img src="https://streak-stats.demolab.com?user=JsMartinez-dev&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JsMartinez-dev&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=JsMartinez-dev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true"/>
 </p>
 
 ---
