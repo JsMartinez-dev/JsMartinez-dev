@@ -17,22 +17,22 @@ Juan Martínez</a></h1>
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
-#### 💻 Languages:
+#### Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)&nbsp;
 
-#### 🔧 Tools & OS:
+#### Tools & OS:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
-#### 🗄️ Database:
+#### Database:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 ---
-## 📊 My Statistics
+## My Statistics
 
 
 <p align="center">
@@ -43,7 +43,7 @@ Juan Martínez</a></h1>
 
 ---
 
-## 🌐 Connect with me:
+## Connect with me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juan-sebasti%C3%A1n-mart%C3%ADnez-uribe-697a52280">
