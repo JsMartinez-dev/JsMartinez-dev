@@ -1,6 +1,5 @@
-<!-- HEADER ANIMADO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Juan%20Martínez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Back-End%20Developer%20%7C%20Java%20Instructor%20%7C%20Freelancer&descAlignY=55&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=&height=180&section=header&text=Juan%20Martínez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Back-End%20Developer%20%7C%20Java%20Instructor%20%7C%20Freelancer&descAlignY=55&descSize=16&color=B00000,8B0000,FF1A1A"/>
 </div>
 
 
@@ -20,25 +19,48 @@
 ##  Tech Stack
 
 #### Languages:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)&nbsp;
+
+
+![Java](https://img.shields.io/badge/Java-8B0000?style=for-the-badge&logo=openjdk&logoColor=white)
+
+&nbsp;
+
+
+![C++](https://img.shields.io/badge/C%2B%2B-A0001A?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+&nbsp;
+
+
+![C](https://img.shields.io/badge/C-C0392B?style=for-the-badge&logo=c&logoColor=white)
+
+&nbsp;
 
 #### Tools & OS:
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+
+
+![Git](https://img.shields.io/badge/Git-8B1A00?style=for-the-badge&logo=git&logoColor=white)
+
+&nbsp;
+
+
+![Linux](https://img.shields.io/badge/Linux-6B0000?style=for-the-badge&logo=linux&logoColor=white)
+
+&nbsp;
 
 #### Database:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-7B0D1E?style=for-the-badge&logo=postgresql&logoColor=white)
+
+&nbsp;
 
 ---
 
 <!-- STATS -->
 ##  GitHub Stats
 
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JsMartinez-dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <img src="https://streak-stats.demolab.com?user=JsMartinez-dev&theme=blood-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=1A0000&ring=CC0000&fire=FF4444&currStreakLabel=FF6666"/>
 </div>
 
 <br/>
@@ -50,12 +72,20 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Martínez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-sebasti%C3%A1n-mart%C3%ADnez-uribe-697a52280)
-[![Email](https://img.shields.io/badge/Email-jsmartinezu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jsmartinezu@unimagdalena.edu.co)
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Martínez-8B0000?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/juan-sebasti%C3%A1n-mart%C3%ADnez-uribe-697a52280)
+[
+
+![Email](https://img.shields.io/badge/Email-jsmartinezu@gmail.com-A0001A?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:jsmartinezu@gmail.com)
 
 </div>
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&color=B00000,8B0000,FF1A1A"/>
 </div>
