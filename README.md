@@ -32,13 +32,10 @@
 ---
 
 <!-- STATS -->
-##  GitHub Stats
-
-
+## GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JsMartinez-dev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <img src="https://streak-stats.demolab.com?user=JsMartinez-dev&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d0100&stroke=7a0700&ring=7a0700&fire=ff3300&currStreakNum=ffffff&sideNums=ff8080&currStreakLabel=cc3300&sideLabels=cc3300&dates=996666"/>
 </div>
-
 <br/>
 
 ---
