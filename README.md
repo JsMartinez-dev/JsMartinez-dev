@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Juan%20Martínez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Back-End%20Developer%20%7C%20Java%20Instructor%20%7C%20Freelancer&descAlignY=55&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=3b0200,7a0700,b31200&height=180&section=header&text=Juan%20Martínez&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Back-End%20Developer%20%7C%20Java%20Instructor%20%7C%20Freelancer&descAlignY=55&descSize=16"/>
 </div>
-
 
 <br/>
 
@@ -55,5 +54,5 @@
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&colors=3b0200,7a0700,b31200&height=100&section=footer"/>
+</div>>
