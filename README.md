@@ -9,7 +9,6 @@
 </a>
 
 -  I am currently studying at <a href="https://unimagdalena.edu.co/" target="blank">Universidad del Magdalena</a>
--  I am currently working on a desktop application (Java).
 -  I am available to work as a freelancer.
 -  I am currently a programming instructor specialized in the object-oriented paradigm (Java).
 -  How to contact me: **jsmartinezu@gmail.com**
