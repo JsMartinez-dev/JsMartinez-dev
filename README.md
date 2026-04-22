@@ -37,7 +37,10 @@
 </div>
 <br/>
 
----
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JsMartinez-dev&layout=compact&hide_border=true&bg_color=0d0100&title_color=cc3300&text_color=ff8080&lang_color=ff3300&border_color=7a0700)
+</div>
 
 <!-- CONNECT -->
 ## Let's Connect
