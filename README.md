@@ -33,13 +33,13 @@
 <!-- STATS -->
 ## GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JsMartinez-dev&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d0100&stroke=7a0700&ring=7a0700&fire=ff3300&currStreakNum=ffffff&sideNums=ff8080&currStreakLabel=cc3300&sideLabels=cc3300&dates=996666"/>
+  <img src="https://streak-stats.demolab.com?user=JsMartinez-dev&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d0100&stroke=7a0700&ring=7a0700&fire=ff3300&currStreakNum=ffffff&sideNums=ff8080&currStreakLabel=ffffff&sideLabels=ffffff&dates=996666"/>
 </div>
 <br/>
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JsMartinez-dev&layout=compact&hide_border=true&bg_color=0d0100&title_color=cc3300&text_color=ff8080&lang_color=ff3300&border_color=7a0700)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JsMartinez-dev&layout=compact&hide_border=true&bg_color=0d0100&title_color=ffffff&text_color=ff8080&lang_color=ff3300&border_color=7a0700)
 </div>
 
 <!-- CONNECT -->
