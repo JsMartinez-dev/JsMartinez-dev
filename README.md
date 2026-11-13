@@ -10,10 +10,7 @@
 
 - Backend Developer focused on **Java and Spring Boot**, developing REST APIs, authentication systems, and database-driven applications.
 - Systems Engineering student at [Universidad del Magdalena](https://unimagdalena.edu.co/).
-- Hands-on experience deploying **Spring Boot applications to Microsoft Azure**, using Docker, Azure Container Apps, Azure Container Registry, and PostgreSQL on Neon.
 - Building automated **CI/CD pipelines with GitHub Actions**, integrating Maven tests, Docker image publishing, and cloud deployment.
-- Interested in **Software Architecture, Cloud Computing, DevOps, and scalable backend systems**.
-- Experience as a **Java / Object-Oriented Programming Teaching Assistant**.
 - Open to **Backend Developer internships, junior opportunities, and freelance projects**.
 - Reach me at **jsmartinezu@gmail.com**
 
@@ -35,17 +32,17 @@
 ### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)&nbsp;
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)&nbsp;
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
+![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)&nbsp;
 
 
 ### Cloud - DevOps & Tools 
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)&nbsp;
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)&nbsp;
