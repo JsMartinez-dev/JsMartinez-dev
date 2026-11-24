@@ -20,7 +20,6 @@
 - Systems Engineering student at [Universidad del Magdalena](https://unimagdalena.edu.co/).
 - Building automated **CI/CD pipelines with GitHub Actions**, integrating Maven tests, Docker image publishing, and cloud deployment.
 - Open to **Backend Developer internships, junior opportunities, and freelance projects**.
-- Reach me at **jsmartinezu@gmail.com**
 
 <br/><br/><br/>
 
