@@ -63,6 +63,9 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=JsMartinez-dev&hide_border=true&date_format=j%20M%5B%20Y%5D&background=021d44&stroke=8eb4ce&ring=8eb4ce&fire=8eb4ce&currStreakNum=ffffff&sideNums=8eb4ce&currStreakLabel=ffffff&sideLabels=ffffff&dates=8eb4ce"/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=EIVRAJAM&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EIVRAJAM&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 <br/>
