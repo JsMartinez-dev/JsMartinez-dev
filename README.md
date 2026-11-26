@@ -1,9 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:021d44,50:073665,100:8eb4ce&height=180&section=header&text=Juan%20Martínez&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Back-End%20Developer%20%7C%20Java%20Instructor%20%7C%20Freelancer&descAlignY=55&descSize=16"/>
 
-  <div align="center">
-  <a href="https://portafolio-ag57.vercel.app/es/" target="_blank"><img src="https://img.shields.io/badge/Mi_portafolio-021d44?style=for-the-badge&logo=google-chrome&logoColor=8eb4ce" alt="Mi portafolio"/></a>
-</div>
 </div>
 
 <br/>
@@ -70,6 +67,11 @@
 
 ## Let's Connect
 
+<br/>
+  <div align="center">
+  <a href="https://portafolio-ag57.vercel.app/es/" target="_blank"><img src="https://img.shields.io/badge/Mi_portafolio-021d44?style=for-the-badge&logo=google-chrome&logoColor=8eb4ce" alt="Mi portafolio"/></a>
+</div>
+<br/>
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Martínez-021d44?style=for-the-badge&logo=linkedin&logoColor=8eb4ce)](https://www.linkedin.com/in/juan-sebasti%C3%A1n-mart%C3%ADnez-uribe-697a52280)
