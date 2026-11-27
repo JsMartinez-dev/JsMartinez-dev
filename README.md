@@ -3,6 +3,9 @@
 
 </div>
 
+  <div align="center">
+  <a href="https://portafolio-ag57.vercel.app/es/" target="_blank"><img src="https://img.shields.io/badge/Mi_portafolio-021d44?style=for-the-badge&logo=google-chrome&logoColor=8eb4ce" alt="Mi portafolio"/></a>
+</div>
 <br/>
 
 
@@ -67,11 +70,7 @@
 
 ## Let's Connect
 
-<br/>
-  <div align="center">
-  <a href="https://portafolio-ag57.vercel.app/es/" target="_blank"><img src="https://img.shields.io/badge/Mi_portafolio-021d44?style=for-the-badge&logo=google-chrome&logoColor=8eb4ce" alt="Mi portafolio"/></a>
-</div>
-<br/>
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Juan%20Martínez-021d44?style=for-the-badge&logo=linkedin&logoColor=8eb4ce)](https://www.linkedin.com/in/juan-sebasti%C3%A1n-mart%C3%ADnez-uribe-697a52280)
